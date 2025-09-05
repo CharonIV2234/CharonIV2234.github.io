@@ -1,0 +1,40 @@
+---
+title: "Christopher Lance Chavers"
+image: "Lance.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/christopher-chavers-a5823819a/"
+  - label: GitHub
+    url: "https://github.com/CharonIV2234"
+  - label: Email
+    url: "cchaver1@jh.edu"
+  - label: John Hopkins Bloomberg School of Public Health
+    url: "https://publichealth.jhu.edu/"
+output: 
+  postcards::trestles: default
+  html_document:
+    self_contained: true
+
+---
+ 
+## <u>About Me</u>
+
+I am a leader, soldier, and scientist-in-training with a career in service, discipline, and vision. At Valley Forge Military College, I served as Battalion Commander of the Corps of Cadets, leading the entire Corps where I created a culture of accountability and performance. At Penn State, I earned my Bachelor of Science while serving as President, Vice President, and Social Chair of Omega Delta Sigma, the university’s Veterans’ Organization, where I built community and gave voice to student veterans transitioning from active duty to civilian lifestyles.
+
+**Military Career**
+
+Today, I serve as a Commissioned Officer in the United States Army, where I have led soldiers as the Company Commander of Golf Company, 1-111th Infantry Battalion. Command has taught me to thrive under pressure, to train others for combat readiness, and to lead with integrity when it matters most.
+
+**Civilian Professional Career**
+
+My professional interests are in epidemiology, biodefense, data analysis, and national security. I am very passionate to protect populations from biological threats — whether on the battlefield or in the public health world. My long-term vision is to lead in the field of biodefense and security contracting, combining military leadership with scientific expertise to create solutions against global threats.
+
+
+I am building a career that integrates my command experience, academic history, and real world critical thinking skills to improve this nation and the world. I am excited to connect with like-minded professionals and explore opportunities to make a meaningful impact.
+
+## Five Fun Facts
+1. I became an officer at the age of 20. 
+2. I’m co-founder of a men’s skincare brand: *Men’s by Chavers & Foster*.  
+3. I love running long distances, swimming, and exercising all the time. (The Gov. requires me to say this)  
+4. I’m writing a book called *No One Cares*.  
+5. I can lead a company of soldiers into the battle field but still manage to lose my keys in my own apartment.
