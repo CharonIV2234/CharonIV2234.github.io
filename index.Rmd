@@ -10,10 +10,12 @@ links:
     url: "cchaver1@jh.edu"
   - label: John Hopkins Bloomberg School of Public Health
     url: "https://publichealth.jhu.edu/"
-output: 
+output:
   postcards::trestles: default
   html_document:
     self_contained: true
+    includes:
+      in_header: favicon.html
 
 ---
  
